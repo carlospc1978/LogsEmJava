@@ -5,7 +5,7 @@ public class Principal {
 
     public static void main(String[] args) {
 
-        //TODO
+        //TODO escrever o readme
         String paraForcarErro="X";
 
         System.out.println("testes");
